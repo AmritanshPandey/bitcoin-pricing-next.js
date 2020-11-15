@@ -1,0 +1,26 @@
+{
+  "name": "bitcoin-pricing-next",
+  "version": "1.0.0",
+  "description": "A simple application that pulls Bitcoin pricing from an API and displays it in the app using next.js and react.js",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmritanshPandey/bitcoin-pricing-next.js.git"
+  },
+  "author": "amritansh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmritanshPandey/bitcoin-pricing-next.js/issues"
+  },
+  "homepage": "https://github.com/AmritanshPandey/bitcoin-pricing-next.js#readme",
+  "dependencies": {
+    "next": "^10.0.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
